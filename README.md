@@ -4,7 +4,7 @@
 
 #### teste
 - 👋 Oi, meu nome è @biazinha2212aa
-- meu email de contato é beatriz.broboski.neves@escola.pr.gov.br
+- 😘 Meu email de contato é beatriz.broboski.neves@escola.pr.gov.br
 - 👀 Estou interessado em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
